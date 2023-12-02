@@ -1,4 +1,4 @@
-# Projeto-3
+# Projeto 3 -  Treinamento de modelo de classificação de asteroides potencialmente perigosos (PHA)
 
 ## Sobre
 
