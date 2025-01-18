@@ -1,8 +1,8 @@
-# Projeto 3 -  Treinamento de modelo de classificação de asteroides potencialmente perigosos (PHA)
+# Project 3 - Training of a Classification Model for Potentially Hazardous Asteroids (PHA)
 
-## Sobre
+## About
 
-Este projeto consiste em utilizar dados de asteroides coletados da NASA via Small-Body DataBase API para treinar um modelo de classificação capaz de identificar asteroides potencialmente perigosos. O modelo utilizado neste projeto é o SVC (Support Vector Classification).
+This project involves using asteroid data collected from NASA through the Small-Body Database API to train a classification model capable of identifying potentially hazardous asteroids. The model used in this project is the SVC (Support Vector Classification).
 
 ## Bibliotecas utilizadas
 
@@ -13,8 +13,8 @@ Este projeto consiste em utilizar dados de asteroides coletados da NASA via Smal
 - scikit-learn: 1.2.2
 - tqdm: 4.66.1
 
-## Como rodar?
+## How to Run?
 
-Basta carregar os arquivos Projeto3.ipynb e asteroides.csv no google colab ou jupyter notebook e clicar em "Executar tudo".
+Simply upload the files Projeto3.ipynb and asteroides.csv to Google Colab or Jupyter Notebook and click on "Run All."
 
-Obs: para uma execução adequada é necessário estar com o Python 3.x instalado no ambiente.
+Note: To ensure proper execution, Python 3.x must be installed in the environment.
